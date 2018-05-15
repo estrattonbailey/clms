@@ -1,0 +1,28 @@
+{
+  "name": "clms",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "clms": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/estrattonbailey/clms.git"
+  },
+  "author": "estrattonbailey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estrattonbailey/clms/issues"
+  },
+  "homepage": "https://github.com/estrattonbailey/clms#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cross-fetch": "^2.2.0",
+    "cross-spawn": "^6.0.5",
+    "loading-indicator": "^2.0.0",
+    "minimist": "^1.2.0",
+    "parse5": "^4.0.0"
+  }
+}
